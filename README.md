@@ -1,1 +1,4 @@
-Parcel + Tailwind setup.
+- Parcel + Tailwind React setup.
+- npm i (install all the required dependencies)
+- npm run start (Run the server)
+- npm run build (build the app for production)
