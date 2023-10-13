@@ -4,7 +4,9 @@
   "description": "youtube clone",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Ashar Ali Khan",
   "license": "ISC",
